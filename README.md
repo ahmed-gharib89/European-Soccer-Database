@@ -18,7 +18,7 @@ This soccer database comes from Kaggle and is well suited for data analysis and 
 
 
 #### Find me in social media
-[![](images/dark.png)](https://ahmed-gharib89.github.io/)
+[<img src="images/dark.png" width=30 hight=30>](https://ahmed-gharib89.github.io/)
 [![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/ahmed-gharib89 "Github")
 [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/ahmed-abdel-moniem-gharib/ "LinkedIn")
 [![Facebook](https://img.icons8.com/ios-filled/30/000000/facebook-new.png "Facebook")](https://www.facebook.com/just.nimo/)

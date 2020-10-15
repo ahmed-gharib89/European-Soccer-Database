@@ -12,3 +12,17 @@ This soccer database comes from Kaggle and is well suited for data analysis and 
 - Betting odds from up to 10 providers
 - Detailed match events (goal types, possession, corner, cross, fouls, cards etc…) for +10,000 matches
 
+### Used Tools
+- Jupyter notebook
+- Python and it's libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
+
+
+#### Find me in social media
+[<img src="images/dark.png" width=30 hight=30>](https://ahmed-gharib89.github.io/)
+[![Github](https://img.icons8.com/ios-filled/30/000000/github.png "Github")](https://github.com/ahmed-gharib89 "Github")
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/ahmed-abdel-moniem-gharib/ "LinkedIn")
+[![Facebook](https://img.icons8.com/ios-filled/30/000000/facebook-new.png "Facebook")](https://www.facebook.com/just.nimo/)
+[![Whatsapp](https://img.icons8.com/ios/30/000000/whatsapp.png "Whatsapp")](https://wa.me/201096995535?text=Hello)
+[![Instagram](https://img.icons8.com/ios/30/000000/instagram.png "Instagram")](https://www.instagram.com/ahmed.gharib89/)
+
+

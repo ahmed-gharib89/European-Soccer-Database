@@ -3,13 +3,16 @@
 his data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. and you can read more about it [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
 ### Example Questions
+- What are the top 10 most popular movies in all times?
+- What are the top 10 most profitable movies in all times?
 - Which genres are most popular from year to year?
-- What kinds of properties are associated with movies that have high revenues?
+- What is the most popular genre in all time?
 
 ### Used Tools
 - Jupyter notebook
 - Python and it's libraries (pandas, numpy, matplotlib, seaborn, sqlite3)
-
+### Resources
+Pandas, Seaborn and MatPlotLib doccumentations.
 
 #### Find me in social media
 [<img src="images/dark.png" width=30 hight=30>](https://ahmed-gharib89.github.io/)

@@ -7,6 +7,7 @@ his data set contains information about 10,000 movies collected from The Movie D
 - What are the top 10 most profitable movies in all times?
 - Which genres are most popular from year to year?
 - What is the most popular genre in all time?
+- How is popularity trending over time?
 
 ### Used Tools
 - Jupyter notebook
